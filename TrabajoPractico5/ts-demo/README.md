@@ -3,4 +3,4 @@ En esta carpeta se encuentra un archivo index.html que contine el código HTML c
 
 Abrir folder con Visual Studio Code.
 
-https://github.com/sofiDiFrancisco/DesarrolloDeSoftware/tree/main/TrabajoPractico3/ts-demo
+https://github.com/sofiDiFrancisco/DesarrolloDeSoftware/tree/main/TrabajoPractico5/ts-demo
